@@ -3,7 +3,7 @@ programacion para videojuegos 213027_18
 ---
 ## 👤 Perfil del Integrante: Nahum Bermeo Barrera
 
-![Mi Foto](Nahum/Foto.jpg)
+![Mi Foto](Nahum/foto.jpg)
 
 **Nombre:** Nahum Bermeo 
 **Rol de la industria:** Diseñador de sonido  

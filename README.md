@@ -17,5 +17,5 @@ programacion para videojuegos 213027_18
 **Nombre:** Nahum Bermeo 
 **Rol de la industria:** Diseñador de sonido  
 **Ubicación:** Bogotá, Colombia  
-**Perfil breve:** Tecnólogo en produccion de Audio, estudiante Ingeniería Multimedia.
+**Perfil breve:** Tecnólogo en produccion de Audio, estudiante Ingeniería Multimedia
 ---

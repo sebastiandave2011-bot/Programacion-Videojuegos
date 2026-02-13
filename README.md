@@ -9,7 +9,6 @@ programacion para videojuegos 213027_18
 **Rol de la industria:** Diseñadora de Videojuegos  
 **Ubicación:** Bogotá, Colombia  
 **Perfil breve:** Soy estudiante de ingeniería multimedia. Será interesante aprender sobre el desarrollo de videojuegos.
-
 ---
 ## 👤 Perfil del Integrante: Nahum Bermeo Barrera
 
@@ -19,3 +18,4 @@ programacion para videojuegos 213027_18
 **Rol de la industria:** Diseñador de sonido  
 **Ubicación:** Bogotá, Colombia  
 **Perfil breve:** Tecnólogo en produccion de Audio, estudiante Ingeniería Multimedia.
+---
